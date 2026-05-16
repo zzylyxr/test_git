@@ -1,2 +1,3 @@
 test1
 研究一下commit的备注编辑
+研究一下commit的不带“-m”的版本
