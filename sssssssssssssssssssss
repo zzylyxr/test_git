@@ -1,0 +1,23 @@
+[33mcommit b41a7562c5f96d4fc13f5dff1268785078dce148[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: zzylyxr <zzy2005.lyxr@outlook.com>
+Date:   Sat May 16 23:52:48 2026 +0800
+
+    使用git commit的文本编辑器
+    这是第二行
+    这是使用默认的编辑器写的消息
+
+[33mcommit 3c7567d57398985046870108f3184ed92450ba02[m
+Author: zzylyxr <zzy2005.lyxr@outlook.com>
+Date:   Sat May 16 23:41:42 2026 +0800
+
+    研究一下commit的消息编辑
+    :q!
+    :q
+    研究失败！
+
+[33mcommit dde60b4cd0949e61e62176f22f25b1bc6b5ac5cd[m
+Author: zzylyxr <zzy2005.lyxr@outlook.com>
+Date:   Sat May 16 23:23:40 2026 +0800
+
+    第一次提交“
+    ”
